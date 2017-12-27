@@ -1,8 +1,4 @@
 fff
 \s
 sdfasd
-<<<<<<< .merge_file_a06472
-¼Â
-=======
-
->>>>>>> .merge_file_a05268
+½ÇÇè2start
