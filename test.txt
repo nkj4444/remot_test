@@ -1,8 +1,4 @@
 fff
 \s
 sdfasd
-<<<<<<< .merge_file_a06472
-셋
-=======
-
->>>>>>> .merge_file_a05268
+실험2 시작
