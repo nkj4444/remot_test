@@ -1,8 +1,12 @@
 fff
 
+<<<<<<< HEAD
 k\
 
 asdf
 a
 sd
 s
+=======
+k
+>>>>>>> parent of 5bd08ce... bbxxcv
