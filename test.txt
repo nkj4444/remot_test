@@ -1,17 +1,4 @@
 fff
-
-<<<<<<< HEAD
-k\
-
-asdf
-a
-sd
-s
-<<<<<<< HEAD
-=======
-k
->>>>>>> parent of 5bd08ce... bbxxcv
-=======
 \s
 sdfasd
->>>>>>> master
+
