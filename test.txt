@@ -1,11 +1,8 @@
 fff
-
-k\
-
-asdf
-a
-sd
-s
 \s
 sdfasd
+<<<<<<< .merge_file_a06472
 ¼Â
+=======
+
+>>>>>>> .merge_file_a05268
